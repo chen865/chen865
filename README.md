@@ -1,4 +1,6 @@
 ## Hi there 👋
+- ⚡Start my coding journey
+-  😄Communicate together
 
 <!--
 **chen865/chen865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
